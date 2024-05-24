@@ -17,4 +17,4 @@ jobs:
           TYPE: DAY
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: e64c92d065a9c965b1c805405b2a2326
-          RECORDS: " 2022-9-12 _ INIT 1일 | 2022-9-12 _ INIT 1일 "
+          RECORDS: " 2024-12-25 _ 크리스마스 | 2024-10-06 _ SQLD 시험 "
